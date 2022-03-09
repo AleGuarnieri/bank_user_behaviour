@@ -82,3 +82,5 @@ Results were saved in these files:
 
 A better parameter tuning could be done on neural network as there was a good improvement on the metric, despite not being enough to overperform the other models.
 New features could be engineered and a feature selection algorithm like PCA could be tried to check if performance of some models could be improved even more.
+
+The entire notebook could be organized into a python script so that if new data come, the process of data preparation, modeling and evaluation could be repeated and executed constantly.
