@@ -76,7 +76,7 @@ Random forest was finally used to predict the target values on the test dataset.
 
 Results were saved in these files:
 - random_forest_predictions.csv: it contains only 0 or 1 for each test record, in the same order of the test records
-- random_forest_predict_proba.csv: it contains test records and related predicted probability
+- random_forest_test_with_predict_proba.csv: it contains test records and related predicted probability
 
 ### Possible next steps
 
